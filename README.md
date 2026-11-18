@@ -7,9 +7,9 @@ AI 엔지니어 · 문서 AI(LLM · OCR) · 컴퓨터 비전 · 의료영상<br>
 
 <a href="https://www.linkedin.com/in/hyeokjin-shim/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a> <a href="mailto:polpy29@gmail.com"><img src="assets/badge-email.svg" alt="Email"></a>
 
-### 한눈에 보기
+### 요약
 
-- **LG전자 라벨 도면 AI 편집기** 기획·개발 총괄. 약 30개국 도면에 사용, 도면 열기 10배 빠르게 (11.8초 → 1.2초)
+- **LG전자 라벨 도면 AI 편집기** 기획·개발 총괄. 약 30개국 도면에 사용, 도면 수정 소요시간 10배 단축 (11.8초 → 1.2초)
 - **산학·위탁과제 7건**: LG전자 2 · 삼성창원병원 · 두산 · 한화오션 · 태림산업 · 한국전기연구원
 - **1저자 논문 5편**: KCI 저널 1 · 국제학회 2 (ICTSS 2026 Springer, ICFICE 2025) · 국내학회 2
 - **다뤄본 분야**: LLM·VLM 응용, OCR·PDF 처리, 객체 인식, 3D 의료영상, 음성 인식 검증
