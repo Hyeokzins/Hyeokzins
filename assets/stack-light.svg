@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="859" height="239" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="23" cy="30.0" r="5" fill="#3572A5"/>
+<text x="34" y="34.5" font-size="13" font-weight="600" fill="#1f2328">Language · Framework</text>
+<rect x="196.0" y="18" width="62.7" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="227.3" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">Python</text>
+<rect x="266.7" y="18" width="70.4" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="301.9" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">PyTorch</text>
+<rect x="345.0" y="18" width="91.5" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="390.8" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">scikit-learn</text>
+<rect x="444.5" y="18" width="64.8" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="476.9" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">OpenCV</text>
+<rect x="517.4" y="18" width="92.8" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="563.8" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">PySide6 (Qt)</text>
+<rect x="618.2" y="18" width="52.8" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="644.6" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">Flask</text>
+<rect x="679.0" y="18" width="56.2" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="707.1" y="34.2" font-size="12" text-anchor="middle" fill="#1f2328">Kotlin</text>
+<line x1="18" y1="48.0" x2="842" y2="48.0" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="23" cy="66.0" r="5" fill="#d97757"/>
+<text x="34" y="70.5" font-size="13" font-weight="600" fill="#1f2328">LLM</text>
+<rect x="196.0" y="54" width="102.5" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="247.3" y="70.2" font-size="12" text-anchor="middle" fill="#1f2328">Azure OpenAI</text>
+<rect x="306.5" y="54" width="82.7" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="347.9" y="70.2" font-size="12" text-anchor="middle" fill="#1f2328">Qwen3-VL</text>
+<rect x="397.2" y="54" width="59.8" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="427.1" y="70.2" font-size="12" text-anchor="middle" fill="#1f2328">Ollama</text>
+<rect x="465.0" y="54" width="45.0" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="487.6" y="70.2" font-size="12" text-anchor="middle" fill="#1f2328">RAG</text>
+<rect x="518.1" y="54" width="47.6" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="541.9" y="70.2" font-size="12" text-anchor="middle" fill="#1f2328">MCP</text>
+<line x1="18" y1="84.0" x2="842" y2="84.0" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="23" cy="102.0" r="5" fill="#bf8700"/>
+<text x="34" y="106.5" font-size="13" font-weight="600" fill="#1f2328">Document AI</text>
+<rect x="196.0" y="90" width="191.3" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="291.7" y="106.2" font-size="12" text-anchor="middle" fill="#1f2328">Azure Document Intelligence</text>
+<rect x="395.3" y="90" width="81.3" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="436.0" y="106.2" font-size="12" text-anchor="middle" fill="#1f2328">PP-OCRv5</text>
+<rect x="484.6" y="90" width="76.1" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="522.7" y="106.2" font-size="12" text-anchor="middle" fill="#1f2328">PyMuPDF</text>
+<line x1="18" y1="120.0" x2="842" y2="120.0" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="23" cy="138.0" r="5" fill="#2f9e74"/>
+<text x="34" y="142.5" font-size="13" font-weight="600" fill="#1f2328">Vision</text>
+<rect x="196.0" y="126" width="52.7" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="222.4" y="142.2" font-size="12" text-anchor="middle" fill="#1f2328">YOLO</text>
+<rect x="256.7" y="126" width="70.4" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="291.9" y="142.2" font-size="12" text-anchor="middle" fill="#1f2328">nnU-Net</text>
+<rect x="335.1" y="126" width="130.1" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="400.1" y="142.2" font-size="12" text-anchor="middle" fill="#1f2328">TotalSegmentator</text>
+<rect x="473.2" y="126" width="78.6" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="512.5" y="142.2" font-size="12" text-anchor="middle" fill="#1f2328">MedSAM2</text>
+<rect x="559.8" y="126" width="75.2" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="597.4" y="142.2" font-size="12" text-anchor="middle" fill="#1f2328">3D Slicer</text>
+<line x1="18" y1="156.0" x2="842" y2="156.0" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="23" cy="174.0" r="5" fill="#8957e5"/>
+<text x="34" y="178.5" font-size="13" font-weight="600" fill="#1f2328">Speech</text>
+<rect x="196.0" y="162" width="68.6" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="230.3" y="178.2" font-size="12" text-anchor="middle" fill="#1f2328">Whisper</text>
+<rect x="272.6" y="162" width="45.0" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="295.1" y="178.2" font-size="12" text-anchor="middle" fill="#1f2328">TTS</text>
+<line x1="18" y1="192.0" x2="842" y2="192.0" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="23" cy="210.0" r="5" fill="#6e7781"/>
+<text x="34" y="214.5" font-size="13" font-weight="600" fill="#1f2328">Hardware · Tools</text>
+<rect x="196.0" y="198" width="66.0" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="229.0" y="214.2" font-size="12" text-anchor="middle" fill="#1f2328">Arduino</text>
+<rect x="270.0" y="198" width="52.8" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="296.5" y="214.2" font-size="12" text-anchor="middle" fill="#1f2328">Linux</text>
+<rect x="330.9" y="198" width="39.6" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="350.7" y="214.2" font-size="12" text-anchor="middle" fill="#1f2328">Git</text>
+<rect x="378.5" y="198" width="90.3" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="423.7" y="214.2" font-size="12" text-anchor="middle" fill="#1f2328">PyInstaller</text>
+</svg>
